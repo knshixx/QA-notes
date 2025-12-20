@@ -23,3 +23,7 @@ It’s a mix of notes, summaries, and exercises. It's a foundation I plan to exp
 - Basics of SQL
 - Basics of Programming
 - Git
+
+### Git
+
+**Git** is a free, open-source distributed version control system built to efficiently manage projects of any size. It is extremely fast and supported by a vast ecosystem of graphical interfaces, hosting platforms, and command-line tools.
